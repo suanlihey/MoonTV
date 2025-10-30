@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "baiduyun": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "name": "百度云资源",
       "detail": "https://bdzy.tv/"
     },
@@ -33,7 +33,7 @@
       "name": "360资源"
     },
     "hongniu": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "name": "红牛资源"
     },
     "wolong": {
@@ -50,7 +50,7 @@
       "name": "豆瓣资源"
     },
     "jyzy": {
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "api": "https://jyzyapi.com/provide/vod/",
       "name": "金鹰资源"
     },
     "mdzy": {
@@ -82,15 +82,15 @@
       "name": "量子资源站"
     },
     "xinlang": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "name": "新浪资源"
     },
     "guangsu": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "name": "光速资源"
     },
     "ukuzy": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
       "name": "U酷资源"
     }
   }
